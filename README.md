@@ -1,4 +1,4 @@
 # 'Learn to Code' Page
-HTML and CSS Practice <br>
-Week 5 Assessment 2 Reskill Americans Project <br>
+Week 5 Assessment 2 Reskill Americans Assignment <br>
+Responsive HTML and CSS Practice Page <br>
 https://kboeh.github.io/learn-code/
