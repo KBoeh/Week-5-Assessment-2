@@ -1,3 +1,3 @@
 # Registration Form
-This page was created in vanilla HTML and CSS and is fullly responsive. Use the link below to see:
+This fullly responsive page was created in vanilla HTML and CSS.<br> Use the link below to see:<br>
 https://kboeh.github.io/registration-form/
