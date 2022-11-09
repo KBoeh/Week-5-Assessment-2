@@ -1,4 +1,3 @@
-# 'Learn to Code' Page
-Week 5 Assessment 2 Reskill Americans Assignment <br>
-Responsive HTML and CSS Practice Page <br>
-https://kboeh.github.io/learn-code/
+# Registration Form
+This page was created in vanilla HTML and CSS and is fullly responsive. Use the link below to see:
+https://kboeh.github.io/registration-form/
